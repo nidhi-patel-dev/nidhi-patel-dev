@@ -10,12 +10,13 @@ Always experimenting. Always shipping.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/np.3898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-patel-aa7aab15b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27044435) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiPatel0308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:the.nidhi.developer@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
-
 ---
 
 ## 📊 Statistics
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge)](https://github.com/your-username)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=for-the-badge)](https://github.com/your-username?tab=stars)
+[![GitHub Followers](https://img.shields.io/github/followers/nidhi-patel-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&rounded=true)](https://github.com/nidhi-patel-dev)
+[![GitHub Stars](https://img.shields.io/github/stars/nidhi-patel-dev?label=Stars&style=for-the-badge&logo=github&logoColor=white&rounded=true)](https://github.com/nidhi-patel-dev?tab=stars)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white&rounded=true)](https://stackoverflow.com/users/27044435)
+
 
 ---
 
