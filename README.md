@@ -14,10 +14,8 @@ Always experimenting. Always shipping.
 ---
 
 ## 📊 Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=nidhi-patel-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nidhi-patel-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-patel-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge)](https://github.com/your-username)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=for-the-badge)](https://github.com/your-username?tab=stars)
 
 ---
 
