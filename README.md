@@ -8,7 +8,8 @@ Always experimenting. Always shipping.
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/np.3898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-patel-aa7aab15b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27044435) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiPatel0308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:the.nidhi.developer@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/np.3898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-patel-aa7aab15b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27044435) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiPatel0308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:the.nidhi.developer@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+
 
 ---
 
@@ -149,11 +150,15 @@ Stack Overflow Profile
 
 ## 🧠 Domains I’ve Built For
 
-Healthcare & Telemedicine • Interior Design & Visualization •  
-Agency Dashboards • Subscription SaaS • AI-powered Automation  
+Healthcare & Telemedicine  
+Interior Design & 3D Visualization  
+Agency Dashboards & Analytics Platforms  
+Subscription-based SaaS Products  
+AI-Driven Automation Systems  
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Developer Mantra
 
-> “Ship fast. Secure always. Scale forever.”
+> “Ship fast. Secure always. Scale endlessly.”
+
