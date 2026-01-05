@@ -63,8 +63,10 @@ Stack Overflow Profile
 [![ChartJS](https://img.shields.io/badge/ChartJS-F5788D?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![SASS](https://img.shields.io/badge/SASS-hotpink?logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindui.com/)
+[![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-00B3B3?style=for-the-badge)](https://ui.shadcn.com/)
 
-##### Backend
+###### Backend
 [![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)](https://expressjs.com/)
@@ -73,6 +75,7 @@ Stack Overflow Profile
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)](https://jwt.io/)
 [![AWS%20Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=black)](https://ejs.co/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
 
 ---
 
