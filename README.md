@@ -7,6 +7,18 @@ Always experimenting. Always shipping.
 
 ---
 
+## 🧩 What I Build
+
+- Full-stack SaaS platforms  
+- Healthcare & regulated domain systems  
+- Identity, RBAC & onboarding frameworks  
+- Stripe billing & subscription engines  
+- Cloud-native serverless architectures  
+- AI automation & data intelligence pipelines  
+- High-performance dashboards & analytics
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-patel-aa7aab15b)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27044435)
@@ -20,18 +32,6 @@ Always experimenting. Always shipping.
 ## 📊 Statistics
 [![GitHub Followers](https://img.shields.io/github/followers/nidhi-patel-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&rounded=true)](https://github.com/nidhi-patel-dev)
 [![GitHub Stars](https://img.shields.io/github/stars/nidhi-patel-dev?label=Stars&style=for-the-badge&logo=github&logoColor=white&rounded=true)](https://github.com/nidhi-patel-dev?tab=stars)
-
----
-
-## 🧩 What I Build
-
-- Full-stack SaaS platforms  
-- Healthcare & regulated domain systems  
-- Identity, RBAC & onboarding frameworks  
-- Stripe billing & subscription engines  
-- Cloud-native serverless architectures  
-- AI automation & data intelligence pipelines  
-- High-performance dashboards & analytics
 
 ---
 ## 🛠 Tech Stack
